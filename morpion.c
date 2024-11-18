@@ -25,7 +25,6 @@ int     main(void)
     SDL_Rect    ver_pos;
     SDL_Rect    hor_pos;
     SDL_Rect    pos;
-//    SDL_Rect    rond_pos;
     int         **plat;
     int         current_row;
     int         current_col;
